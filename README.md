@@ -32,9 +32,10 @@ To use the quantitative analysis application, simply clone the repository and cr
 
 Upon launching the blockchain ledger, you will be able to add multiple blocks within the blockchain, and view their hashes.
 
+<img width="1440" alt="Screen Shot 2022-10-18 at 4 50 07 PM" src="https://user-images.githubusercontent.com/105071493/196567580-255f1906-6931-4c3e-a899-d07fd02c935f.png">
+
 <img width="1424" alt="Screen Shot 2022-10-18 at 4 55 24 PM" src="https://user-images.githubusercontent.com/105071493/196567574-85c4e87c-bb74-464c-a735-3d0fce55cf87.png">
 
-<img width="1440" alt="Screen Shot 2022-10-18 at 4 50 07 PM" src="https://user-images.githubusercontent.com/105071493/196567580-255f1906-6931-4c3e-a899-d07fd02c935f.png">
 
 ---
 
